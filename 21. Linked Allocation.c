@@ -35,5 +35,5 @@ int main()
         printf("%d",f[i].block[j]);
         printf("\n");
     }
-    getch();
+     return 0;
 }
